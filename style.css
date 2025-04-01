@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    font-family: verdana;
+    
+}
+
+header{
+    background-color: orangered;
+    width: 100%;
+    min-height: 100px;
+    line-height: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+main{
+    width: 100%;
+    min-height: 700px;
+    background-color: lightsalmon;
+}
+
+footer{
+    background-color: orangered;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+h1{
+    margin: 0px;
+}
+
+h2{
+    text-align: center;
+    margin: 0px;
+}
+
+article{
+    padding: 10px;
+    margin: 5px;
+}
+
+#zdjopis{
+    height: 300px;
+    margin: 0 20px 0 20px;
+    float: left;
+    border: 10px orangered solid;
+    border-radius: 10px;
+}
+
+#zdjzasady{
+    height: 300px;
+    margin: 0 20px 0 20px;
+    float: right;
+    border: 10px orangered solid;
+    border-radius: 10px;
+}
+
+
+#opis{
+    float: left;
+    
+    min-height: 300px;
+ }
+
+#zasady{
+    padding: 20px;
+    min-height: 300px;
+}
+
+#ciekawe{
+    padding: 20px;
+}
+
+hr{
+    background-color: orangered;
+    border-color: orangered;
+    height: 10px;
+}
+
